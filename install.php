@@ -107,7 +107,7 @@ if (!$DB->tableExists($config_table_name)) {
   $query = "CREATE TABLE $config_table_name (
     `id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
     `par_name` VARCHAR(255) NOT NULL,
-    `par_value` VARCHAR(255) NOT NULL
+    `par_value` VARCHAR(500) NOT NULL
   )";
   $DB->queryOrDie($query, $DB->error());
   sm_log("Đã tạo bảng cấu hình: ".$config_table_name);

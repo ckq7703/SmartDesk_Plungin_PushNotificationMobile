@@ -36,3 +36,63 @@
   "name": "projects/smartdesk-4636d/messages/0:1759459692526255%deb1d531deb1d531"
 }
 
+[TOKEN UPDATE] Endpoint called from IP: 172.17.0.3
+[TOKEN UPDATE] Updating token for user #13
+[TOKEN UPDATE] Found user: demo01 (#13)
+[TOKEN UPDATE] SUCCESS - User: demo01 (#13) - Token preview: FBT:test123...
+[TOKEN UPDATE] Request from IP: 172.17.0.3
+[TOKEN UPDATE] Authenticating with Session-Token
+[TOKEN UPDATE] Invalid or expired Session-Token
+[TOKEN UPDATE] Request from IP: 172.17.0.3
+[TOKEN UPDATE] Authenticating with Session-Token
+[TOKEN UPDATE] Invalid or expired Session-Token
+[TOKEN UPDATE] Request from IP: 172.17.0.3
+[TOKEN UPDATE] Authenticating with Session-Token
+[TOKEN UPDATE] Invalid or expired Session-Token
+[TOKEN UPDATE] Request from IP: 172.17.0.3
+[TOKEN UPDATE] Authenticating with Session-Token
+[TOKEN UPDATE] Invalid or expired Session-Token
+[TOKEN UPDATE] Endpoint called from IP: 172.17.0.3
+[TOKEN UPDATE] Updating token for user #13
+[TOKEN UPDATE] Found user: demo01 (#13)
+[TOKEN UPDATE] SUCCESS - User: demo01 (#13) - Token preview: FBT:test123...
+[TOKEN UPDATE] Endpoint called from IP: 172.17.0.3
+[TOKEN UPDATE] Updating token for user #13
+[TOKEN UPDATE] Found user: demo01 (#13)
+[TOKEN UPDATE] SUCCESS - User: demo01 (#13) - Token preview: FBT:test1232...
+[TOKEN UPDATE] Endpoint called from IP: 172.17.0.3
+[TOKEN UPDATE] Endpoint called from IP: 172.17.0.3
+[TOKEN UPDATE] Missing required fields
+[TOKEN UPDATE] Endpoint called from IP: 172.17.0.3
+[TOKEN UPDATE] Updating token for user #13
+[TOKEN UPDATE] Found user: demo01 (#13)
+[TOKEN UPDATE] SUCCESS - User: demo01 (#13) - Token preview: FBT:e25vR6mkSD2VAphSW2gIsN:APA...
+[03-Oct-2025 15:01:58 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 15:01:59 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #29: Phản hồi FCM v1: {
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+[03-Oct-2025 15:03:23 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 15:03:24 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #29: Phản hồi FCM v1: {
+  "name": "projects/smartdesk-4636d/messages/0:1759478604008013%deb1d531deb1d531"
+}
+
+[03-Oct-2025 15:06:04 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 15:06:05 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #29: Phản hồi FCM v1: {
+  "name": "projects/smartdesk-4636d/messages/0:1759478765104632%deb1d531deb1d531"
+}
+
+[03-Oct-2025 15:06:28 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 15:06:29 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #29: Phản hồi FCM v1: {
+  "name": "projects/smartdesk-4636d/messages/0:1759478789268135%deb1d531deb1d531"
+}
+
+[03-Oct-2025 15:15:07 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 15:15:07 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #29: Phản hồi FCM v1: {
+  "name": "projects/smartdesk-4636d/messages/0:1759479307793499%deb1d531deb1d531"
+}
+

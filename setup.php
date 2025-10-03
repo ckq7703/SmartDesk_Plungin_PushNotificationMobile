@@ -39,4 +39,6 @@ function plugin_init_glpimobilenotification() {
     Ticket::class       => 'plugin_glpimobilenotification_item_add',
     ITILFollowup::class => 'plugin_glpimobilenotification_followup_add'
   ];
+
+
 }
