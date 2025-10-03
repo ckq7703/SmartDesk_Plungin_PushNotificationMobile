@@ -1,0 +1,38 @@
+[02-Oct-2025 17:30:30 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[02-Oct-2025 17:30:30 Asia/Krasnoyarsk] [THÔNG BÁO] Ticket #39: Không có người nhận đủ điều kiện (không gửi).
+[02-Oct-2025 17:35:31 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[02-Oct-2025 17:35:31 Asia/Krasnoyarsk] [THÔNG BÁO] Ticket #40: Không có người nhận đủ điều kiện (không gửi).
+[02-Oct-2025 17:38:25 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[02-Oct-2025 17:38:25 Asia/Krasnoyarsk] [THÔNG BÁO] Ticket #41: Không có người nhận đủ điều kiện (không gửi).
+[02-Oct-2025 17:39:01 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[02-Oct-2025 17:39:01 Asia/Krasnoyarsk] [THÔNG BÁO] Followup Ticket #41: Không có người nhận đủ điều kiện (không gửi).
+[02-Oct-2025 17:39:45 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[02-Oct-2025 17:39:45 Asia/Krasnoyarsk] [THÔNG BÁO] Followup Ticket #41: Không có người nhận đủ điều kiện (không gửi).
+[03-Oct-2025 09:15:26 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 09:15:26 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #41: Không tìm thấy token hợp lệ để gửi (HTTP v1).
+[03-Oct-2025 09:17:19 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 09:17:19 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #41: Không tìm thấy token hợp lệ để gửi (HTTP v1).
+[03-Oct-2025 09:24:03 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 09:24:04 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #41: Phản hồi FCM v1: {
+  "name": "projects/smartdesk-4636d/messages/0:1759458244318890%deb1d531deb1d531"
+}
+
+[03-Oct-2025 09:27:39 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 09:27:40 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #41: Phản hồi FCM v1: {
+  "name": "projects/smartdesk-4636d/messages/0:1759458460060623%deb1d531deb1d531"
+}
+
+[03-Oct-2025 09:39:09 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 09:39:09 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #41: Không tìm thấy token hợp lệ để gửi (HTTP v1).
+[03-Oct-2025 09:43:46 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 09:43:47 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #41: Phản hồi FCM v1: {
+  "name": "projects/smartdesk-4636d/messages/0:1759459427166795%deb1d531deb1d531"
+}
+
+[03-Oct-2025 09:46:21 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 09:46:21 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #41: Không tìm thấy token hợp lệ để gửi (HTTP v1).
+[03-Oct-2025 09:48:12 Asia/Krasnoyarsk] [THIẾT LẬP] Đã chuyển hướng log plugin sang: /var/www/html/glpi/plugins/glpimobilenotification/smartdesk_mobile.log
+[03-Oct-2025 09:48:12 Asia/Krasnoyarsk] [THÔNG BÁO] Followup mới cho Ticket #41: Phản hồi FCM v1: {
+  "name": "projects/smartdesk-4636d/messages/0:1759459692526255%deb1d531deb1d531"
+}
+
